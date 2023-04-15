@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World!!!");
 		System.out.println("Copia 1 & 2");
 		System.out.println("Nicolas Araújo");
+		System.out.println("Lucas de Oliveira");
 	}
 	
 }
