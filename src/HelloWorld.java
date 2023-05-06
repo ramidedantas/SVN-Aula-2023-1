@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Nicolas Ara�jo");
 		System.out.println("Lucas de Oliveira");
 		System.out.println("Karine Santos");
+		System.out.println("Hello World!!! Lena Diene");
 	}
 	
 }
