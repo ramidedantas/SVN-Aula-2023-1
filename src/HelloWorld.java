@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Lucas de Oliveira");
 		System.out.println("Karine Santos");
 		System.out.println("Lena Diene");
+        System.out.println("Samuel Paes");
 	}
 	
 }
